@@ -1,9 +1,5 @@
 # Valuation model of used Thinkpads sold on eBay
-
-Just a multiple linear regression model with categorical and continuous variables.
-Ended up using the model, cpu type and generation, condition, hard-drive and RAM to
-evaluate each computer. 
+Multiple linear regression with categorical and continuous predictors: Thinkpad model (T460s, T470s, etc.), CPU type (i5, i7) and generation (5th, 6th, etc.), condition (new, used, etc.), hard-drive size and RAM size.
 
 ## Results
-Ended up buying a machine at around $100 less than its market value through a 
-'make an offer' sale.
+Purchased a machine at $100 under its market value in a _make an offer_ sale.
